@@ -1,0 +1,15 @@
+{
+  "name": "child-rescue-project",
+  "version": "1.0.0",
+  "description": "Static webpage for government's child rescue mission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diwas KC",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.7.5",
+    "jquery": "^3.4.1"
+  }
+}
